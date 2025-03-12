@@ -79,7 +79,7 @@ html {
 
 .clock-seconds {
 	background-color: rgb(195, 47, 47);
-	transition: all 1s linear;
+	transition: rotate 1s linear;
 }
 
 .clock-minutes {
